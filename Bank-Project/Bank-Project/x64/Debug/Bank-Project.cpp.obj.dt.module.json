@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Bank-Project\\x64\\Debug\\Bank-Project.obj",
+            "outputs": [
+                "Bank-Project\\x64\\Debug\\Bank-Project.cpp.obj.dt.module.json",
+                "Bank-Project\\x64\\Debug\\Bank-Project.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
